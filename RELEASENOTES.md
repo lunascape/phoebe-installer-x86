@@ -1,3 +1,12 @@
+## Phoebe 0.23.0-alpha1 (2019-12-03)
+
+### Improvement
+* Update core framework.
+
+### Fixed bug
+* Fixed issue - History days value in form in settings.
+* Fixed issue - Properly decoding japanese urls.
+
 ## Phoebe 0.22.0 (2019-11-08)
 
 ### Improvement
